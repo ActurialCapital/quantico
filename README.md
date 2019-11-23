@@ -85,14 +85,19 @@ As a result, we get a dictionary with keys as:
 
 For example:
 
-
 ``` 
 for i in range(0, 4): simulations['simulation'][i].plot()
-pd.DataFrame(simulations['simulation']).stack().hist(bins=100)
 ```
 
 <p align="center">
   <img src="https://github.com/ActurialCapital/quantico/blob/master/images/Figure_1.png" width="50%" height="50%">
+</p>  
+
+``` 
+pd.DataFrame(simulations['simulation']).stack().hist(bins=100)
+```
+
+<p align="center">
   <img src="https://github.com/ActurialCapital/quantico/blob/master/images/Figure_2.png" width="50%" height="50%">
 </p>
 
