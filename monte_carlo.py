@@ -43,7 +43,7 @@ def simulations(
                 jump = 0
             else:
                 for j in range(0, alea_poisson):
-                    jump = jump * norm.ppf(random(), loc=mu_y, scale=var_y)
+                    jump = jump + norm.ppf(random(), loc=mu_y, scale=var_y)
                     
             x = np.log(S) + (rf - sigma * sigma * 0.5) * dt + np.sqrt(dt) * sigma * alea_normal + jump
             S = np.exp(x)
