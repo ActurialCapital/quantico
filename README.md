@@ -1,14 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ActurialCapital/pyStrap">
+  <a href="https://github.com/ActurialCapital/quantico">
     <img src="https://github.com/ActurialCapital/quantico/blob/master/images/img1.png" width="50%" height="50%">
   </a>
 
   <h2 align="center">Quantico</h2>
 
   <p align="center">
-  Market regime + idiosyncrasies
+  <b>Market regime + idiosyncrasies</b>
   </p>
  
 ## Table of Contents
@@ -59,7 +59,7 @@ For events with an expected separation ![equation](https://docs.scipy.org/doc/nu
 Import necessary modules:
 
 ```
-from pyRisk import monte_carlo as mc
+from quantico import monte_carlo as mc
 ```
 
 Run function **.poisson_process**:
@@ -81,10 +81,10 @@ simulations = mc.poisson_process(
 
 ## Getting Started
 
-The easiest way to install pyRisk is using **pip** package management system. To install pyRisk, enter the following command at a Bash or Windows command prompt:
+The easiest way to install quantico is using **pip** package management system. To install quantico, enter the following command at a Bash or Windows command prompt:
 
 ```
-pip install pyRisk
+pip install quantico
 ```
 
 ## Contributing
