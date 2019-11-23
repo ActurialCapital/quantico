@@ -8,7 +8,7 @@
   <h2 align="center">Quantico</h2>
 
   <p align="center">
-  <b>Market regime + idiosyncrasies</b>
+  <b>MARKET REGIME + IDIOSYNCRASIES</b>
   </p>
  
 ## Table of Contents
