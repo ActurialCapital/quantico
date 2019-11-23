@@ -79,6 +79,11 @@ simulations = mc.poisson_process(
  )
 ```
 
+<p align="center">
+  <img src="https://github.com/ActurialCapital/quantico/blob/master/images/Figure_1.png" width="50%" height="50%">
+  <img src="https://github.com/ActurialCapital/quantico/blob/master/images/Figure_2.png" width="50%" height="50%">
+</p>
+
 ## Getting Started
 
 The easiest way to install quantico is using **pip** package management system. To install quantico, enter the following command at a Bash or Windows command prompt:
