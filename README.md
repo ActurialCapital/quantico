@@ -2,13 +2,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/ActurialCapital/pyStrap">
-    <img src="https://github.com/ActurialCapital/pyRisk/blob/master/monte_carlo/images/img2.jpg" width="25%" height="25%">
+    <img src="https://github.com/ActurialCapital/quantico/blob/master/images/img1.png" width="25%" height="25%">
   </a>
 
-  <h2 align="center">monte_carlo</h2>
+  <h2 align="center">Quantico</h2>
 
   <p align="center">
-  The Poisson process model for Monte Carlo methods is used to simulate a particular market regime, taking into account idiosyncrasies.
+  Market regime + idiosyncrasies
   </p>
  
 ## Table of Contents
