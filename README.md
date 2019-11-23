@@ -80,7 +80,7 @@ simulations = mc.poisson_process(
 ```
 
 As a result, we get a dictionary with keys as:
-  - **'simulations'**: n_simul number of simulations for n_iter iterations
+  - **'simulation'**: n_simul number of simulations for n_iter iterations
   - **'jumps'**: number of jumps created for each random timeseries
 
 For example:
