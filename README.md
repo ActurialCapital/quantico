@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ActurialCapital/pyStrap">
-    <img src="https://github.com/ActurialCapital/quantico/blob/master/images/img1.png" width="25%" height="25%">
+    <img src="https://github.com/ActurialCapital/quantico/blob/master/images/img1.png" width="50%" height="50%">
   </a>
 
   <h2 align="center">Quantico</h2>
