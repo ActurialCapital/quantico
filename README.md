@@ -36,7 +36,7 @@ The Poisson process model for Monte Carlo methods is used to simulate a particul
 ### Model assumptions
 
   - We operate  in a specific market regime
-  - There is a certain probabilistic number of failing companies that are identifiable - including, but not limited to, bankruptcies, defaults, profit warnings, change in competitive environmnent, lake of demand, supply-chain disruptions, political uncertainties...
+  - There is a certain probabilistic number of failing companies that are identifiable - including, but not limited to, bankruptcies, defaults, profit warnings, change in competitive environment, lake of demand, supply-chain disruptions, political uncertainties...
   - As a consequence, the failing companies are represented by a sharpe decrease in stock price and a surge of volatility
   - The number of failing companies follows a poisson distribution
 
