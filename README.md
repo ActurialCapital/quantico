@@ -22,7 +22,6 @@
   * [Model Assumptions](#model-assumptions)
   * [Built With](#built-with)
 * [Quick Start](#quick-start)
-* [Getting Started](#getting-started)
 * [Contributing](#contributing)
 * [Author](#author)
 * [License](#license)
@@ -101,21 +100,13 @@ pd.DataFrame(simulations['simulation']).stack().hist(bins=100)
   <img src="https://github.com/ActurialCapital/quantico/blob/master/images/Figure_2.png" width="50%" height="50%">
 </p>
 
-## Getting Started
-
-The easiest way to install quantico is using **pip** package management system. To install quantico, enter the following command at a Bash or Windows command prompt:
-
-```
-pip install quantico
-```
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Author
 
-* **Jean Meilhoc Ricaume** - [ActurialCapital](https://github.com/ActurialCapital)
+**Jean Meilhoc Ricaume** - [ActurialCapital](https://github.com/ActurialCapital)
 
 ## License
 
