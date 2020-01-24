@@ -22,7 +22,6 @@
   * [Model Assumptions](#model-assumptions)
   * [Built With](#built-with)
 * [Quick Start](#quick-start)
-* [Contributing](#contributing)
 * [Author](#author)
 * [License](#license)
 
@@ -99,10 +98,6 @@ pd.DataFrame(simulations['simulation']).stack().hist(bins=100)
 <p align="center">
   <img src="https://github.com/ActurialCapital/quantico/blob/master/images/Figure_2.png" width="50%" height="50%">
 </p>
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Author
 
