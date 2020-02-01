@@ -63,7 +63,7 @@ from quantico import monte_carlo as mc
 Run function **.poisson_process**:
 
 ``` 
-simulations = mc.poisson_process(
+simulations = mc.simulations(
     S0=100,
     rf=0.05,
     sigma=0.20,
