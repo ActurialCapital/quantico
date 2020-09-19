@@ -41,10 +41,10 @@ The Poisson process model for Monte Carlo methods is used to simulate a particul
 The Poisson distribution:
 
 <p align="center">
-   <img src="https://docs.scipy.org/doc/numpy/_images/math/5530e3b933171293a6e472ceb20c8b6e13907694.svg">
+   <img src="https://numpy.org/doc/stable/_images/math/c91108ae66a9a5e2feb9442c67962868e368fdc8.svg">
 </p>
 
-For events with an expected separation ![equation](https://docs.scipy.org/doc/numpy/_images/math/76f1d8ace30435987c01a00ca53a71cba1f40e6c.svg) the Poisson distribution ![equation](https://docs.scipy.org/doc/numpy/_images/math/4543967a0487e3e38e5d9af75c03d0c481a740c4.svg) describes the probability of k events occurring within the observed interval ![equation](https://docs.scipy.org/doc/numpy/_images/math/76f1d8ace30435987c01a00ca53a71cba1f40e6c.svg).
+For events with an expected separation ![equation](https://numpy.org/doc/stable/_images/math/cefc603e5658facb747581f9567192993f21c7ab.svg) the Poisson distribution ![equation](https://numpy.org/doc/stable/_images/math/4d00b2dcd7c9300ef7b531ec4b19efbd75cf8ea6.svg) describes the probability of k events occurring within the observed interval ![equation](https://numpy.org/doc/stable/_images/math/cefc603e5658facb747581f9567192993f21c7ab.svg).
 
 ### Built With
 
